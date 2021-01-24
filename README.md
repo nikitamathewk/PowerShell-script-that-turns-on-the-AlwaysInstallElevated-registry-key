@@ -1,0 +1,1 @@
+# PowerShell-script-that-turns-on-the-AlwaysInstallElevated-registry-key
